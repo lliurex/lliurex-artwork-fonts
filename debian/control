@@ -7,12 +7,9 @@ Standards-Version: 3.9.5
 
 Package: lliurex-artwork-fonts
 Architecture: all
+Breaks: lliurex-artwork-fonts-classroom (<<1.2)
+Replaces: lliurex-artwork-fonts-classroom (<<1.2)
+Provides: lliurex-artwork-fonts-classroom
 Section: x11
 Description: LliureX's 19 extra TrueType fonts
  This package constains additional TrueType fonts, as Google Open Sans.
- 
-Package: lliurex-artwork-fonts-classroom
-Architecture: all
-Section: x11
-Description: LliureX's 19 classroom TrueType fonts
- This package constains additional TrueType fonts, designed for classroom

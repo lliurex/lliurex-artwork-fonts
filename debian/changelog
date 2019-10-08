@@ -1,3 +1,9 @@
+lliurex-artwork-fonts (1.2) bionic; urgency=medium
+
+  * Merge classroom and default packages
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 08 Oct 2019 12:55:04 +0200
+
 lliurex-artwork-fonts (1.1.0) bionic; urgency=medium
 
   * Adapted to bionic

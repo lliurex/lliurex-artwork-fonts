@@ -1,0 +1,15 @@
+Source: lliurex-artwork-fonts
+Section: x11
+Priority: optional
+Maintainer: LliureX Team <lliurex@gva.es>
+Build-Depends: cdbs, debhelper (>= 7)
+Standards-Version: 3.9.5
+
+Package: lliurex-artwork-fonts
+Architecture: all
+Breaks: lliurex-artwork-fonts-classroom (<<1.2)
+Replaces: lliurex-artwork-fonts-classroom (<<1.2)
+Provides: lliurex-artwork-fonts-classroom
+Section: x11
+Description: LliureX's 19 extra TrueType fonts
+ This package constains additional TrueType fonts, as Google Open Sans.
